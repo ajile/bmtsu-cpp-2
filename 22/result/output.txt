@@ -1,0 +1,17 @@
+The addresses of chars of word #0:
+  0x7fff57b51146
+  0x7fff57b51147
+  0x7fff57b51148
+  0x7fff57b51149
+  0x7fff57b5114a
+  0x7fff57b5114b
+The addresses of chars of word #1:
+  0x7fff57b51151
+  0x7fff57b51152
+  0x7fff57b51153
+  0x7fff57b51154
+  0x7fff57b51155
+  0x7fff57b51156
+  0x7fff57b51157
+  0x7fff57b51158
+Found 2 words begining from 'd' and ending to 'w'

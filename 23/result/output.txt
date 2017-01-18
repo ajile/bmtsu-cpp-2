@@ -1,0 +1,12 @@
+48The origin string: the list of the word in accordance with exercise
+[the][list][of][the][word][in][accordance][with][exercise]
+
+exercise
+with
+accordance
+in
+word
+the
+of
+list
+the
