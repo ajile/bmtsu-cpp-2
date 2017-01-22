@@ -1,0 +1,9 @@
+
+First: 3.14159
+Last: -14
+Max: 6
+Min: -20
+Min Odd: -5
+Min + Max: -14
+First - Last: 17.1416
+More than 10 negative nums

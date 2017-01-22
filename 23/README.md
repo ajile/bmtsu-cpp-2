@@ -5,5 +5,25 @@
 ## Результат
 
 ```
-TBD
+Input a string: the list of the word in accordance with exercise 
+The origin string: the list of the word in accordance with exercise 
+
+# Printing words by interating over the stack:
+    exercise
+    with
+    accordance
+    in
+    word
+    the
+    of
+    list
+    the
+# Amount of words which length less three: 2
+Input length of the words (N): 3
+# Words less then N length: 
+    exercise
+    with
+    accordance
+    word
+    list
 ```

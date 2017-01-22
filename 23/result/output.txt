@@ -1,12 +1,15 @@
-48The origin string: the list of the word in accordance with exercise
-[the][list][of][the][word][in][accordance][with][exercise]
+The origin string: the list of the word in accordance with exercise
+((s:0; e:3))3[the]((s:4; e:8))4[list]((s:9; e:11))2[of]((s:12; e:15))3[the]((s:16; e:20))4[word]((s:21; e:23))2[in]((s:24; e:34))10[accordance]((s:35; e:39))4[with]((s:40; e:47))7[exercis]
 
-exercise
-with
-accordance
-in
-word
-the
-of
-list
-the
+# Printing words by interating over the stack:
+    exercis
+    with
+    accordance
+    in
+    word
+    the
+    of
+    list
+    the
+# Amount of words which length less three: 2
+Words less then N length you liked to delete: 

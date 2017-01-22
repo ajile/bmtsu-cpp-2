@@ -9,5 +9,12 @@
 ## Результат
 
 ```
-TBD
+Expression '2+4' contains 1 operations;
+Expression '7*10-2' contains 2 operations;
+Expression '12-3+1/2' contains 3 operations;
+(array) Total amount of operations is 6
+Expression '2+4' contains 1 operations;
+Expression '7*10-2' contains 2 operations;
+Expression '12-3+1/2' contains 3 operations;
+(list) Total amount of operations is 6
 ```
