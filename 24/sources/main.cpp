@@ -43,7 +43,7 @@ int main(void) {
   cout << "# Lines (before replacement):" << endl;
 	for (int i = 0; i < lines.size(); ++i) {
 		cout << "- " << lines[i] << endl;
-		replace(lines[i], "ed", "ing");
+		replace(lines[i], "ing", "ed");
 	}
 
 	cout << endl;

@@ -40,6 +40,7 @@ int main(void) {
   Expression * exp2 = new Expression("7*10-2");
   Expression * exp3 = new Expression("12-3+1/2");
   Expression * expressions[3] = { exp1, exp2, exp3 };
+  /* Expression * expressions = new Expression [3] = (Expression("123+213")); */
   int counter;
 
   counter = 0;
