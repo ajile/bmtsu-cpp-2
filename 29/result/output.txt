@@ -1,1 +1,10 @@
-Dummy
+# Creating new node for number 200
+# Creating new node for number 300
+# Creating new node for number zbc
+# Creating new node for number 100
+# Sorting
+# Printing
+  300
+  200
+  zbc
+  100
