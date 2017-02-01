@@ -1,0 +1,24 @@
+# CNumber.print():
+  My value is: 5
+
+# CNumber.get():5
+# ORIGIN
+# CRecord.print():
+  number:   My value is: 5
+  Element #0:   My value is: 5
+  Element #1:   My value is: 2
+  Element #2:   My value is: 9
+
+# CRecord.get():5
+# CRecord.sort():
+
+
+# SORTED
+# CRecord.print():
+  number:   My value is: 5
+  Element #0:   My value is: 2
+  Element #1:   My value is: 5
+  Element #2:   My value is: 9
+
+# CRecord.min(): 2
+# CRecord.max(): 9
